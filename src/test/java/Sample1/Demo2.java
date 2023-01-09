@@ -10,6 +10,9 @@ public class Demo2
 		
 		System.out.println("Hi...Good Afternoon");
 		System.out.println("Hi... Good Night");
+		
+		System.out.println("Hi...Good Afternoon");
+		System.out.println("Hi... Good Night");
 	}
 	
 
