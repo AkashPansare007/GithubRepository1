@@ -7,6 +7,11 @@ public class Demo1
 	{
 		System.out.println("Hii..Good Morning");
 		System.out.println("Hii...Good Night");
+		
+		
+		
+		System.out.println("Hello..Good Morning");
+		System.out.println("Hello...Good Night");
 
 	}
 
