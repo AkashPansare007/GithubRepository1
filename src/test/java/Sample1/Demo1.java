@@ -12,7 +12,19 @@ public class Demo1
 		
 		System.out.println("Hello..Good Morning");
 		System.out.println("Hello...Good Night");
+		m3();
+		m4();
+		
 
+	}
+	
+	public static void m3()
+	{
+		System.out.println("Welcome to Goa Singham");
+	}
+	public static void m4()
+	{
+		System.out.println("Ata Majhi Satakali");
 	}
 
 }
