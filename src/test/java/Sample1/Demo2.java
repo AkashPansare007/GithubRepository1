@@ -27,6 +27,16 @@ public class Demo2
 		System.out.println("Hi...Good Afternoon");
 		System.out.println("Hi... Good Night");
 	}
+	public static void a1()
+	{
+		System.out.println("Hi...Good Afternoon");
+		System.out.println("Hi... Good Night");
+	}
+	public static void a2()
+	{
+		System.out.println("Hi...Good Afternoon");
+		System.out.println("Hi... Good Night");
+	}
 	
 
 }
