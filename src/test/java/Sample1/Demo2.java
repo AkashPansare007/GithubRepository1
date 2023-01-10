@@ -8,6 +8,8 @@ public class Demo2
 		m2();
 		m3();
 		m4();
+		a1();
+		a2();
 	}
 
 	private static void m1() 
@@ -29,14 +31,31 @@ public class Demo2
 		System.out.println("Hi...Good Afternoon");
 		System.out.println("Hi... Good Night");
 	}
+
 	public static void m3()
 	{
 		System.out.println("Hi...Good Afternoon");
 		System.out.println("Hi... Good Night");
-	}public static void m4()
+	}
+	public static void m4()
 	{
 		System.out.println("Hi...Good Afternoon");
 		System.out.println("Hi... Good Night");
 	}
+
+	public static void a1()
+
+	{
+		System.out.println("Hi...Good Afternoon");
+		System.out.println("Hi... Good Night");
+	}
+
+	public static void a2()
+	{
+		System.out.println("Hi...Good Afternoon");
+		System.out.println("Hi... Good Night");
+	}
+	
+
 
 }
