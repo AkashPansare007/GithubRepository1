@@ -6,6 +6,8 @@ public class Demo2
 	{
 		m1();
 		m2();
+		m3();
+		m4();
 	}
 
 	private static void m1() 
@@ -27,6 +29,14 @@ public class Demo2
 		System.out.println("Hi...Good Afternoon");
 		System.out.println("Hi... Good Night");
 	}
-	
+	public static void m3()
+	{
+		System.out.println("Hi...Good Afternoon");
+		System.out.println("Hi... Good Night");
+	}public static void m4()
+	{
+		System.out.println("Hi...Good Afternoon");
+		System.out.println("Hi... Good Night");
+	}
 
 }

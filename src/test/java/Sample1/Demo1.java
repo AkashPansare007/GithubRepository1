@@ -14,6 +14,8 @@ public class Demo1
 		System.out.println("Hello...Good Night");
 		m3();
 		m4();
+		m7();
+		m8();
 		
 
 	}
@@ -23,6 +25,14 @@ public class Demo1
 		System.out.println("Welcome to Goa Singham");
 	}
 	public static void m4()
+	{
+		System.out.println("Ata Majhi Satakali");
+	}
+	public static void m7()
+	{
+		System.out.println("Welcome to Goa Singham");
+	}
+	public static void m8()
 	{
 		System.out.println("Ata Majhi Satakali");
 	}
